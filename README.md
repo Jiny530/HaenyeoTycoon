@@ -18,7 +18,7 @@
 ## Team
 기획 및 개발
 - [김하연](https://github.com/haayun)
-- [박혜진](https://github.com/imHyejinPark)
+- [박혜진](https://github.com/jiny530)
 - [이다해](https://github.com/dahaelee)
 - [이수민](https://github.com/vilut1002)
 - [유효민](https://github.com/Hyomin6349)   
